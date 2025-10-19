@@ -30,10 +30,10 @@ A modern, feature-rich blogging platform built with **Next.js 15**, **tRPC**, **
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page - Hero Section](./screenshots/home1.png)
+![Home Page - Hero Section](./screenshots/Home1.png)
 *Beautiful gradient hero section with animated feature cards*
 
-![Home Page - Features](./screenshots/home2.png)
+![Home Page - Features](./screenshots/Home2.png)
 *Interactive feature cards showcasing platform capabilities*
 
 ### Dashboard
