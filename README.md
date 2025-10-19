@@ -2,9 +2,9 @@
 
 A modern, feature-rich blogging platform built with **Next.js 15**, **tRPC**, **PostgreSQL**, and **TailwindCSS**. Create, manage, and publish blog posts with an intuitive interface and real-time updates.
 
-![BlogPlatform Banner](https://via.placeholder.com/1200x400/667eea/ffffff?text=BlogPlatform+-+Modern+Blogging+Made+Easy)
-
 ---
+
+
 
 ## ✨ Features
 
